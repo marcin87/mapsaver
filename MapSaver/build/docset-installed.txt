@@ -1,0 +1,4 @@
+Documentation set was installed to Xcode!
+
+Path: /Users/marcinwodarczyk/Library/Developer/Shared/Documentation/DocSets/com.mydomain.MyProject.docset
+Time: 2013-03-10 17:26:32 +0000
